@@ -1,5 +1,5 @@
 ---
- RTNSlider (Working in Progress)
+ RTNSlider (Working in Progress) (Working only new Arch)
 ---
 
 
